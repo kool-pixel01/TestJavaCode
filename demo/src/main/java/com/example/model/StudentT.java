@@ -12,5 +12,8 @@ public class StudentT {
 	public void m3(){
 		
 	}
+	public void m6() {
+		
+	}
 	
 }
