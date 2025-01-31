@@ -7,5 +7,8 @@ public class StudentT {
 	}
 	public void m2(){
 	}
+	public void m4() {
+		
+	}
 	
 }
