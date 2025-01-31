@@ -12,8 +12,11 @@ public class StudentT {
 	public void m3(){
 		
 	}
+
 	public void m6() {
-		
+	}	
+	public void m5(){
+
 	}
 	
 }
