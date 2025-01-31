@@ -14,6 +14,7 @@ public class StudentT {
 	}
 
 	public void m6() {
+		String k="test";
 	}	
 	public void m5(){
 
